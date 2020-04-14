@@ -20,7 +20,7 @@
   along with this code.  If not, see <http://www.gnu.org/licenses/>.
 */
 /** The Location Description String. */
-"ERR-STRING-SHORT"                                                                              =   "ERR";
+"ERR-STRING-SHORT"                                                                              =   "Ошибка";
 
 "CONNECT-TITLE"                                                                                 =   "CONNECT";
 "SERVICE-BODY-SELECTION-TITLE"                                                                  =   "Select Service Bodies";
